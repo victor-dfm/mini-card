@@ -1,7 +1,7 @@
 # Mini Card
 
 This project is about a banner, which adapts depending on whether it is on a web or mobile device.
-Whe you click the button it changes colour. It uses jquery, scss and html.
+When you click the button it changes colour. It uses jQuery, scss and html.
 
 ## Get started
 
@@ -23,7 +23,7 @@ This project has been done with npm 10.8.2. Make sure you have this version. The
 
 ## More things
 
-The project has a html file that shows the banner, then a js folder, where it contains the kQuery and
+The project has a html file that shows the banner, then a js folder, where it contains the jQuery and
 the script for the button to perform the action of changing the colour. And finally a scss for the banner design.
 
 
